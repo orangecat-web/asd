@@ -1,0 +1,40 @@
+footer
+
+line 82
+<li><a href="news.php">³Ì·s®ø®§</a></li>
+
+-----------------------------------------
+
+colors/default.css
+
+line 205
+color: #282828;
+
+-----------------------------------------
+
+style.css
+
+line 117
+h1, h2, h3, h4, h5, p, ul, li, dl, dt, dd, button, input, textarea, select, option, div {font-family: 'Oxygen', 'Noto Sans TC', MS UI Gothic, MS Gothic, sans-serif !important; font-weight: 400}
+
+line 4387
+.navbar-side-collapse .side-nav li a, .filterNormal .list-unstyled li a {
+    font-size: 1.15rem;
+    color: #252525;
+    line-height: 22px;
+    padding: 0;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    display: block;
+}
+
+-----------------------------------------
+https://www.ezwoshop.com/assets/application-5fa2e2a3492b18373407fcb6998c7545.css
+ 
+Delete
+.orange {
+    color: rgba(255,198,39,0.85) !important;
+}
